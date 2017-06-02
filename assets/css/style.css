@@ -1,0 +1,16 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+h1, label, p {
+	color:red;
+}
+
+
+body{
+background-image: url(../images/arena.jpg);
+background-size:100%;
+}
